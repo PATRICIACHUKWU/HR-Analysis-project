@@ -1,1 +1,1 @@
-# HR-Analysis-project
+# Power BI projects
